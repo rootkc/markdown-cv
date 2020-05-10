@@ -19,3 +19,17 @@ a {
 h2, h3 {
   width: 12%;
 }
+
+span {
+  color: #6c6565;
+  font-size: bold;
+}
+
+em {
+  color: #6c6565;
+  font-size: 95%;
+  line-height: 100%;
+  font-family: Menlo,monospace,sans-serif;
+  font-style: normal;
+  font-weight: 100;
+}
