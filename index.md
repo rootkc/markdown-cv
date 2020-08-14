@@ -36,12 +36,12 @@ Photography, Mountainbiking, BMX, Startups and cool open source technologies.
 `June 2020 - July 2020`
 **Ingest and parse data from backend** _| YouTv_
 
-Create ingestion engine that takes `.JSON` files from a backend and parse them into the format that clients consume. It's written using python3 and tested with pythons unittest
+Create ingestion engine that takes json files from a backend and parse them into the format that clients consume. It's written using python3 and tested with pythons unittest
 
 `May 2020 - June 2020`
 **Setup Cypress with BDD support** _| YouTv_
 
-Setup Cypress in a mono repository with support for BDD `.feature` files and start writing tests to automate regression testing.
+Setup Cypress in a mono repository with support for BDD feature files and start writing tests to automate regression testing.
 
 `May 2020 - June 2020`
 **Multiple repos to mono repo with CI** _| YouTv_
